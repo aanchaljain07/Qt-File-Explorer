@@ -45,6 +45,65 @@ The application uses Qt’s powerful **Model-View architecture**, ensuring smoot
 - **IDE:** Qt Creator
 
 ---
+---
+
+## 📸 Screenshots
+
+### 🗂️ Main Window
+Displays the main file explorer interface with directory navigation.
+
+![Main Window](screenshots/main_window.png)
+
+---
+
+### 🔁 Toggle View
+Switch between list view and icon/grid view.
+
+![Toggle View](screenshots/toggle_view.png)
+
+---
+
+### 🖱️ Right Click Menu
+Context menu providing quick file operations.
+
+![Right Click Menu](screenshots/right_click_menu.png)
+
+---
+
+### 📄 Create New File
+Dialog box to create a new file in the current directory.
+
+![Create New File](screenshots/create_new_file.png)
+
+---
+
+### 📁 Create New Folder
+Dialog box to create a new folder.
+
+![Create New Folder](screenshots/create_new_folder.png)
+
+---
+
+### ❌ Delete Operation
+Confirmation dialog shown during file/folder deletion.
+
+![Delete Operation](screenshots/delete_operation.png)
+
+---
+
+### 🔍 Search Operation
+Search functionality to locate files and folders.
+
+![Search Operation](screenshots/search_operation.png)
+
+---
+
+### ☑️ Multiple Select
+Selecting multiple files/folders for batch operations.
+
+![Multiple Select](screenshots/multiple_select.png)
+
+---
 
 ## ▶️ How to Run the Project
 
