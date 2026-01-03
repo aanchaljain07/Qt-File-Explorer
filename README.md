@@ -45,7 +45,6 @@ The application uses Qt’s powerful **Model-View architecture**, ensuring smoot
 - **IDE:** Qt Creator
 
 ---
----
 
 ## 📸 Screenshots
 
